@@ -1,0 +1,236 @@
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\obj\Debug\SHOP.csproj.AssemblyReference.cache
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\obj\Debug\SHOP.csproj.CoreCompileInputs.cache
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\SHOP.dll.config
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\SHOP.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\SHOP.pdb
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\csc.exe
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\csc.exe.config
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\csc.rsp
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\csi.exe
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\csi.exe.config
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\csi.rsp
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.AppContext.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Console.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.IO.Compression.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Net.Http.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.ValueTuple.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\vbc.exe
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\vbc.exe.config
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\vbc.rsp
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\VBCSCompiler.exe
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\obj\Debug\SHOP.csproj.CopyComplete
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\obj\Debug\SHOP.dll
+C:\Users\AZIZ\Desktop\New folder\SHOP\SHOP\obj\Debug\SHOP.pdb
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\SHOP.dll.config
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\SHOP.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\SHOP.pdb
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\csc.exe
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\csc.exe.config
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\csc.rsp
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\csi.exe
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\csi.exe.config
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\csi.rsp
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.AppContext.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Console.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.IO.Compression.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Net.Http.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.ValueTuple.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\vbc.exe
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\vbc.exe.config
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\vbc.rsp
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\VBCSCompiler.exe
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\obj\Debug\SHOP.csproj.AssemblyReference.cache
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\obj\Debug\SHOP.csproj.CoreCompileInputs.cache
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\obj\Debug\SHOP.csproj.CopyComplete
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\obj\Debug\SHOP.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP\SHOP\obj\Debug\SHOP.pdb
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\SHOP.dll.config
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\SHOP.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\SHOP.pdb
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\csc.exe
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\csc.exe.config
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\csc.rsp
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\csi.exe
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\csi.exe.config
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\csi.rsp
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.AppContext.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Console.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.IO.Compression.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Net.Http.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.ValueTuple.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\vbc.exe
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\vbc.exe.config
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\vbc.rsp
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\VBCSCompiler.exe
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\obj\Debug\SHOP.csproj.AssemblyReference.cache
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\obj\Debug\SHOP.csproj.CoreCompileInputs.cache
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\obj\Debug\SHOP.csproj.CopyComplete
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\obj\Debug\SHOP.dll
+C:\Users\AZIZ\Desktop\qqqqqqqqqq\SHOP2\SHOP\obj\Debug\SHOP.pdb
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\SHOP.dll.config
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\SHOP.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\SHOP.pdb
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\azizu\Desktop\SHOP2\SHOP\obj\Debug\SHOP.csproj.AssemblyReference.cache
+C:\Users\azizu\Desktop\SHOP2\SHOP\obj\Debug\SHOP.csproj.CoreCompileInputs.cache
+C:\Users\azizu\Desktop\SHOP2\SHOP\obj\Debug\SHOP.csproj.CopyComplete
+C:\Users\azizu\Desktop\SHOP2\SHOP\obj\Debug\SHOP.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\obj\Debug\SHOP.pdb
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\csc.exe
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\csc.exe.config
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\csc.rsp
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\csi.exe
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\csi.exe.config
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\csi.rsp
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.AppContext.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Console.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.IO.Compression.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Net.Http.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.ValueTuple.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\vbc.exe
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\vbc.exe.config
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\vbc.rsp
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\VBCSCompiler.exe
+C:\Users\azizu\Desktop\SHOP2\SHOP\bin\roslyn\VBCSCompiler.exe.config
